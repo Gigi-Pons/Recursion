@@ -10,4 +10,9 @@ Takes in an array and recursively checks if it is a palindrome or not.
 ## storeNum
 Takes in an array and stores the value provided by the user in an array and in a vector.
 
+## replaceWithX
+Takes input from the user and swittches all 'a's entered with an 'x'
+
+## mergeSort
+Merge sort algorithm uses recursion to sort in descending order array in main function
 
