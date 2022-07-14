@@ -6,7 +6,7 @@ void replaceChar(char input[]);
 
 int main()
 {
-    //Ask user for input and for every 'a', switch with 'x'
+    //Ask user for input 
     char input[10];
     cout << "Enter input: ";
     cin >> input;
