@@ -16,3 +16,5 @@ Takes input from the user and swittches all 'a's entered with an 'x'
 ## mergeSort
 Merge sort algorithm uses recursion to sort in descending order array in main function
 
+## quickSort
+Implemented the quick sort algorithm to arrange in ascending order an array of integers.
